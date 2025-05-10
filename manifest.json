@@ -1,6 +1,9 @@
 {
   "short_name": "ROG",
   "name": "Red Object Game",
+  "description": "A Endless Runner Game",
+  "start_url": "/index.html",
+  "display": "standalone",
   "orientation": "landscape",
   "icons": [
     {

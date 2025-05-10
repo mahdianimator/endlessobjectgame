@@ -5,6 +5,7 @@
   "start_url": "/index.html",
   "display": "standalone",
   "orientation": "landscape",
+  "offline_enabled": true,
   "icons": [
     {
       "src": "/cube.png",

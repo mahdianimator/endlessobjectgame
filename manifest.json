@@ -1,6 +1,7 @@
 {
   "short_name": "ROG",
   "name": "Red Object Game",
+  "orientation": "landscape",
   "icons": [
     {
       "src": "/cube.png",
